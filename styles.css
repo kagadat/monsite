@@ -54,7 +54,8 @@ nav a:hover {
 
 /* Footer */
 footer {
-    display: flex;
+    /*display: flex;*/
+    margin-top: auto;
     justify-content: space-between;
     align-items: center;
     background-color: #333;
