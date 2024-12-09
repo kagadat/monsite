@@ -53,7 +53,10 @@ nav a {
 nav a:hover {
     background-color: #555;
 }
-/* Style des titres h2 */
+/* Style des titres h */
+.titreBienvenueh1 {
+    color: #0000FF;
+}
 .titreh2 {
     color: red;
 } 
