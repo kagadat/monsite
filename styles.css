@@ -63,7 +63,9 @@ footer {
     color: #fff;
     padding: 10px 20px;
 }
-
+.h3 {
+    color: red;
+}    
 /* Sections */
 section {
     margin: 20px;
