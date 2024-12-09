@@ -1,6 +1,6 @@
 /* Style général */
 body {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #79F8F8;
     color: #333;
     margin: 0;
@@ -53,10 +53,9 @@ nav a {
 nav a:hover {
     background-color: #555;
 }
-/* Style des titres h3 */
-.titreh3 {
+/* Style des titres h2 */
+.titreh2 {
     color: red;
-    font-size: larger;
 } 
 /* Footer */
 footer {
