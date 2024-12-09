@@ -6,6 +6,8 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }   
 /* Header */
 header {
