@@ -23,7 +23,7 @@ header {
     border-radius: 50%;
 }
 .header-center {
-    font-size: 1.5em;
+    font-size: 2em;
     font-weight: bold;
 }
 .hamburger {
@@ -33,7 +33,6 @@ header {
     border: none;
     color: #fff;
 }
-
 /* Menu */
 nav {
     display: none;
@@ -69,7 +68,6 @@ footer {
     color: #fff;
     padding: 10px 20px;
 }
-   
 /* Sections */
 section {
     margin: 20px;
