@@ -11,7 +11,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
+    background-color: #0000FF;
     color: #fff;
     padding: 10px 20px;
 }
@@ -54,10 +54,7 @@ nav a:hover {
 
 /* Footer */
 footer {
-    /*display: flex;*/
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #333;
