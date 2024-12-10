@@ -17,8 +17,8 @@ header {
     padding: 10px 20px;
 }
 .header-photo {
-    width: 100px;
-    height: 100px;
+    width: auto;
+    height: auto;
     border-radius: 50%;
 }
 .header-center {
