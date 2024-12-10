@@ -67,6 +67,10 @@ footer {
     color: #fff;
     padding: 10px 20px;
 }
+.footer-center {
+    font-size: 2em;
+    font-weight: bold;
+}
 /* Sections */
 section {
     margin: 20px;
