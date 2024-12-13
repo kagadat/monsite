@@ -69,7 +69,7 @@ footer {
     bottom: 0;
     width: 100%;
     /*Set the fixed height of the footer here*/
-    height: min-content;
+    height: 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
