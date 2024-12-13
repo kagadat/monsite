@@ -65,16 +65,21 @@ nav a:hover {
 } 
 /* Footer */
 footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /*Set the fixed height of the footer here*/
+    height: min-content;
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #0000FF;
     color: #fff;
-    padding: 10px 20px;
+    padding: 10px 10px;
 }
-.footer-center {
-    font-size: 2em;
-    font-weight: bold;
+.footer-right {
+    font-size: 0.5em;
+    /*font-weight: bold;*/
 }
 /* Sections */
 section {
